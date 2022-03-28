@@ -7,22 +7,22 @@
     <base href="{global.baseURL}">
     <meta name="description" content="{head.description}">
     <title>{head.title} | {global.appName}</title>
-<!--    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="public/app.css">
-    <script type="text/javascript" src="public/app.js" charset="UTF-8"></script>-->
+    <script type="text/javascript" src="public/app.js" charset="UTF-8"></script>
 </head>
 <body class="{body.class}">
     <div class="wrapper">
         <header>
-            <a href="/" id="logo"></a>
+            <a href="/" id="logo"><img src="public/logo.png" alt="Logo"></a>
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/" class="signed-out">Signup</a></li>
-                    <li><a href="" class="signed-out"></a>Signin</li>
-                    <li><a href="" class="signed-in"></a>Dashboard</li>
-                    <li><a href="" class="signed-in"></a>Settings</li>
-                    <li><a href="" class="signed-in"></a>Signout</li>
+                    <li><a href="/account/signup" class="signed-out">Signup</a></li>
+                    <li><a href="/session/signin" class="signed-out"></a>Signin</li>
+                    <li><a href="/checks/checklist" class="signed-in"></a>Dashboard</li>
+                    <li><a href="/account/edit" class="signed-in"></a>Settings</li>
+                    <li><a href="/session/signout" class="signed-in"></a>Signout</li>
                 </ul>
             </nav>
         </header>
