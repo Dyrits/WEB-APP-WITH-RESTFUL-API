@@ -27,7 +27,6 @@ It allows user to create checks, with different status code, and to get the stat
 ## Screenshots
 ![Check details](check-details.png)
 
-
 ## Technologies and tools
 This project has been build using Node.js without any dependency.
 
@@ -39,7 +38,6 @@ Run `npm start` to start the server.
 The project has been completed on the [pirple](https://github.com/Dyrits/WEB-APP-WITH-RESTFUL-API/tree/pirple) branch. Check the changelog for more information.
 
 ### Changelog
-
 The project, on the main branch, has been discontinued.
 
 The divergences from the original Pirple's project were too consequential to be able to continue without refactoring the full code base.  
