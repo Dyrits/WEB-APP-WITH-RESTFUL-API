@@ -4,6 +4,7 @@
 - [Related content](#related-content)
   - [Personal recommandations](#personal-recommandations)
 - [General information](#general-information)
+- [Screenshots](#screenshots)
 - [Technologies](#technologies-and-tools)
 - [Installation](#installation)
 - [Status](#status)
@@ -20,7 +21,11 @@ I don't recommend to buy and take the course provided by [Pirple](https://www.pi
 This course was originally released in 2018. Since then, the Node.js platform and ecosystem has continued to evolve.
 
 ## General Information
-This project is a RESTful API built with Node.js and a web application using a custom templating engine.
+This project is a RESTful API built with Node.js and a web application using a custom templating engine.  
+It allows user to create checks, with different status code, and to get the state of a check.
+
+## Screenshots
+![Check details](check-details.png)
 
 
 ## Technologies and tools
