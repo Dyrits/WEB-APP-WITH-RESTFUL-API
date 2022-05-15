@@ -2,6 +2,7 @@
 
 ## Table of contents
 - [Related content](#related-content)
+  - [Personal recommandations](#personal-recommandations)
 - [General information](#general-information)
 - [Technologies](#technologies-and-tools)
 - [Installation](#installation)
@@ -15,8 +16,12 @@
 This project has been build as part of the Node.js Master Class, available on [Pirple](https://www.pirple.com/).
 
 ### Personal recommandations
-I don't recommend to buy and take the course provided by Pirple.
+I don't recommend to buy and take the course provided by [Pirple](https://www.pirple.com/).
 This course was originally released in 2018. Since then, the Node.js platform and ecosystem has continued to evolve.
+
+## General Information
+This project is a RESTful API built with Node.js and a web application using a custom templating engine.
+
 
 ## Technologies and tools
 This project has been build using Node.js without any dependency.
