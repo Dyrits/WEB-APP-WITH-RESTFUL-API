@@ -1,4 +1,4 @@
-# Building a RESTful API | Building a Web App GUI
+# Building a RESTful API | Building a Web App GUI | Building a CLI
 
 ## Table of contents
 - [Related content](#related-content)
